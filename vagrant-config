@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   
-  # Box Settings
+  #Box Settings
   config.vm.box = "ubuntu/trusty64"
 
   # Provider Settings
